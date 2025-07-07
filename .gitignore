@@ -1,5 +1,5 @@
 RDC**.csv
-*.csv
+election_data_2024/**.csv
 *.xlsx
 *.topojson
 national_cong118_boundary
